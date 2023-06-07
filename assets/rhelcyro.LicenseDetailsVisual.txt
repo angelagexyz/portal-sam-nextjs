@@ -1,0 +1,160 @@
+
+	Micro Focus License Administration
+	==================================
+	[Apr 25, 2019 2:40:25 AM] v10000.2.01650
+
+	Welcome to the Micro Focus License Administration utility.
+	Please select an option from the menu below.
+
+	 1. Online Authorization.
+	 2. Check License Status.
+	 3. Advanced Configuration Options.
+	 4. Manual License Installation.
+	 5. Uninstall Licenses.
+	 6. Get Machine Id.
+	 7. Commute/Return Licenses.
+	 8. Get License Details.
+	
+	99. Exit
+
+	Enter Option: 
+	Licenses with extra detail
+	==========================
+	[Apr 25, 2019 2:40:25 AM] v10000.2.01650
+
+	    Name                 
+	    Serial No            Expires On                    Total           
+	    --------------------------------------------------------------------
+	 1. Visual COBOL Dev Hub(PA)  
+	    MFInternalSN         -                         1 user(s)           
+
+	99. Exit to main menu.
+
+	Choose product you want details for: 
+	Product License: Visual COBOL Dev Hub(PA)      
+	Ordered        : MFProd                        
+	License Type   : Named User                    
+	Count          : 1                             
+	Platform       : winx64                        
+	Billed Customer: MFBC                          
+	End Customer   : MFEC                          
+	Application    : MFApp                         
+	Date Generated : Aug 15, 2013                  
+	Serial Number  : MFInternalSN                  
+	License ID     : MFPI                          
+	Expires        : -                             
+
+	<Press Enter to return to menu> 
+	Licenses with extra detail
+	==========================
+	[Apr 25, 2019 2:40:25 AM] v10000.2.01650
+
+	    Name                 
+	    Serial No            Expires On                    Total           
+	    --------------------------------------------------------------------
+	 1. Visual COBOL Dev Hub(PA)  
+	    MFInternalSN         -                         1 user(s)           
+
+	99. Exit to main menu.
+
+	Choose product you want details for: 	Invalid option - 2
+
+	Licenses with extra detail
+	==========================
+	[Apr 25, 2019 2:40:25 AM] v10000.2.01650
+
+	    Name                 
+	    Serial No            Expires On                    Total           
+	    --------------------------------------------------------------------
+	 1. Visual COBOL Dev Hub(PA)  
+	    MFInternalSN         -                         1 user(s)           
+
+	99. Exit to main menu.
+
+	Choose product you want details for: 	Invalid option - 
+
+	Licenses with extra detail
+	==========================
+	[Apr 25, 2019 2:40:25 AM] v10000.2.01650
+
+	    Name                 
+	    Serial No            Expires On                    Total           
+	    --------------------------------------------------------------------
+	 1. Visual COBOL Dev Hub(PA)  
+	    MFInternalSN         -                         1 user(s)           
+
+	99. Exit to main menu.
+
+	Choose product you want details for: 	Invalid option - 3
+
+	Licenses with extra detail
+	==========================
+	[Apr 25, 2019 2:40:25 AM] v10000.2.01650
+
+	    Name                 
+	    Serial No            Expires On                    Total           
+	    --------------------------------------------------------------------
+	 1. Visual COBOL Dev Hub(PA)  
+	    MFInternalSN         -                         1 user(s)           
+
+	99. Exit to main menu.
+
+	Choose product you want details for: 	Invalid option - 
+
+	Licenses with extra detail
+	==========================
+	[Apr 25, 2019 2:40:25 AM] v10000.2.01650
+
+	    Name                 
+	    Serial No            Expires On                    Total           
+	    --------------------------------------------------------------------
+	 1. Visual COBOL Dev Hub(PA)  
+	    MFInternalSN         -                         1 user(s)           
+
+	99. Exit to main menu.
+
+	Choose product you want details for: 	Invalid option - 4
+
+	Licenses with extra detail
+	==========================
+	[Apr 25, 2019 2:40:25 AM] v10000.2.01650
+
+	    Name                 
+	    Serial No            Expires On                    Total           
+	    --------------------------------------------------------------------
+	 1. Visual COBOL Dev Hub(PA)  
+	    MFInternalSN         -                         1 user(s)           
+
+	99. Exit to main menu.
+
+	Choose product you want details for: 	Invalid option - 
+
+	Licenses with extra detail
+	==========================
+	[Apr 25, 2019 2:40:25 AM] v10000.2.01650
+
+	    Name                 
+	    Serial No            Expires On                    Total           
+	    --------------------------------------------------------------------
+	 1. Visual COBOL Dev Hub(PA)  
+	    MFInternalSN         -                         1 user(s)           
+
+	99. Exit to main menu.
+
+	Choose product you want details for: 
+	Micro Focus License Administration
+	==================================
+	[Apr 25, 2019 2:40:25 AM] v10000.2.01650
+
+	 1. Online Authorization.
+	 2. Check License Status.
+	 3. Advanced Configuration Options.
+	 4. Manual License Installation.
+	 5. Uninstall Licenses.
+	 6. Get Machine Id.
+	 7. Commute/Return Licenses.
+	 8. Get License Details.
+	
+	99. Exit
+
+	Enter Option: 	Exit...

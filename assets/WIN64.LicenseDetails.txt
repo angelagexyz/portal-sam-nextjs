@@ -1,0 +1,32 @@
+ 
+Server License Administration System - AppTrack
+-----------------------------------------------------------
+1.   License List
+2.   Current usage
+3.   License Install
+4.   License Uninstall
+5.   Change/Set Password
+9.   Quit
+Enter the Menu Selection
+ 
+2019/04/25 12:02:32 Server licenses:
+----------------------------------------------------------
+00001
+Server for COBOL                        
+License users: 00010
+Duration: Unlimited         Server Concurr  
+Serial no:  600000135806        
+License no: 01280 10000 0A924 1460. .... 
+--------------------------------------------
+Continue...
+ 
+Server License Administration System - AppTrack
+-----------------------------------------------------------
+1.   License List
+2.   Current usage
+3.   License Install
+4.   License Uninstall
+5.   Change/Set Password
+9.   Quit
+Enter the Menu Selection
+ 

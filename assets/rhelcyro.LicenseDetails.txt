@@ -1,0 +1,63 @@
+ 
+Server License Administration System - AppTrack
+-----------------------------------------------------------
+1.   License List
+2.   License Summary
+3.   License Install
+4.   License Uninstall
+5.   Change/Set Password
+6.   Reinitialize Licensing
+7.   Current Users
+9.   Quit
+Enter the Menu Selection
+ 
+2019/04/25 04:58:48 Server licenses:
+----------------------------------------------------------
+00001
+/opt/microfocus/cobol
+Version        of Server for COBOL                        
+License users: Unlimited    CPUs: 001 
+Duration: Unlimited         Server          
+600000723505TZ+     
+03060 1003E 81BA0 ADA0. .... TST             
+--------------------------------------------
+00002
+
+Version        of Server Express 5 or later Model 2       
+License units: 00005       **AS Developer Usage
+Duration: Unlimited                         
+600000378793TZ+     
+03060 B0000 05C24 2E40. ....                 
+--------------------------------------------
+More... (Esc to Quit)
+ 
+00003
+
+Version        of Server Express 5 or later Model 2       
+License units: 00005       **AS Developer Usage
+Duration: Unlimited                         
+600000378793TZ+     
+03030 B0000 05C24 2E40. ....                 
+--------------------------------------------
+00004
+
+Version        of Server Express 5 or later Model 2       
+License units: 00001    **ES Developer Usage
+Duration: Unlimited                         
+600000378793TZ+     
+03050 10000 01C24 2E40. ....                 
+--------------------------------------------
+Continue...
+ 
+Server License Administration System - AppTrack
+-----------------------------------------------------------
+1.   License List
+2.   License Summary
+3.   License Install
+4.   License Uninstall
+5.   Change/Set Password
+6.   Reinitialize Licensing
+7.   Current Users
+9.   Quit
+Enter the Menu Selection
+ 
